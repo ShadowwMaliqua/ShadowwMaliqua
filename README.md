@@ -32,7 +32,7 @@
 [![Cloud & DevOps](https://skillicons.dev/icons?i=azure,docker,git)](https://skillicons.dev)
 
 #### Langages & Frameworks
-[![Languages](https://skillicons.dev/icons?i=csharp,dotnet,java,php,html,css,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cs,dotnet,java,php,html,css,js)](https://skillicons.dev)
 
 #### Développement Mobile
 [![Mobile](https://skillicons.dev/icons?i=flutter,dart,xamarin)](https://skillicons.dev)
