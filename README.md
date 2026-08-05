@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- Bannière générée dynamiquement (capsule-render) -->
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1e293b&height=200&section=header&text=Manlango%20Stephane&fontSize=42&fontColor=ffffff&desc=Cloud%20Architect%20Azure%20Expert%20%7C%20AZ-305%20Certified&descAlignY=62&fontAlignY=35)](https://github.com/ShadowwMaliqua)
 
-<!--
-**ShadowwMaliqua/ShadowwMaliqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bonjour, je suis Biedan Grégoire Louis Stéphane MANLANGO
 
-Here are some ideas to get you started:
+### ☁️ Cloud Architect Azure Expert | Ingénieur en Génie Informatique
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-ManlangoStephane%40outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:ManlangoStephane@outlook.com)
+[![GitHub followers](https://img.shields.io/github/followers/ShadowwMaliqua?logo=github&style=flat-square&color=0891b2)](https://github.com/ShadowwMaliqua)
+[![Location](https://img.shields.io/badge/Casablanca-Maroc-blue?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShadowwMaliqua&style=flat-square&color=0891b2)](https://github.com/ShadowwMaliqua)
+
+<!-- Snake animation - voir instructions pour l'activer -->
+![GitHub contribution snake](https://raw.githubusercontent.com/ShadowwMaliqua/ShadowwMaliqua/output/github-contribution-grid-snake.svg)
+
+## ☁️ Certifications Microsoft Azure
+
+[![AZ-305](https://img.shields.io/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/)
+[![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-administrator/)
+
+> 🏗️ Architecture cloud, sécurité, identités, stockage, réseaux et calcul sur Azure — de la conception au déploiement.
+
+## 💻 Stack Technique
+
+#### Cloud & DevOps
+[![Cloud & DevOps](https://skillicons.dev/icons?i=azure,docker,git)](https://skillicons.dev)
+
+#### Langages & Frameworks
+[![Languages](https://skillicons.dev/icons?i=csharp,dotnet,java,php,html,css,js)](https://skillicons.dev)
+
+#### Développement Mobile
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart,xamarin)](https://skillicons.dev)
+
+#### Bases de données
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+#### Frameworks & Outils
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🚀 Expérience & Projets
+
+- **☁️ Solution Web & Mobile — Stage, Mobiarchitects** *(04/2022 – 04/2023)*
+  Déploiement d'applications sur Azure App Service (Linux), gestion du stockage Azure Storage, développement multiplateforme avec Xamarin, ASP.NET Core MVC/API, renforcement de la sécurité Azure (MFA, prévention de la fraude).
+
+- **📚 Application de gestion de bibliothèque (Java JEE)** — Projet universitaire *(02/2020 – 05/2020)*
+  Conception et développement d'une application de gestion de bibliothèque en Java JEE.
+
+- **🔐 Administrateur Réseau et Sécurité — Stage, Caplogistics SA (Côte d'Ivoire)** *(11/2018 – 01/2019)*
+  Installation et maintenance de Windows Server 2012 R2, mise en place d'un pare-feu FortiGate, suivi et analyse des logs.
+
+- **🗄️ Administration de base de données** — Projet universitaire *(01/2018 – 03/2018)*
+  Conception et création d'une base de données à partir d'un cahier des charges fonctionnel.
+
+## 🎓 Formation
+
+- **2022** — 5e année Ingénieur en Génie Informatique, *Institut Polytechnique Privée, Casablanca*
+- **2018** — Upper Intermediate Level (Anglais), *Alliance Française, Accra, Ghana*
+- **2015** — Baccalauréat Scientifique, *Lycée Classique d'Abidjan, Côte d'Ivoire*
+
+## 🌍 Langues
+
+![Français](https://img.shields.io/badge/Fran%C3%A7ais-Natif-blue?style=for-the-badge)
+![Anglais](https://img.shields.io/badge/Anglais-Interm%C3%A9diaire-green?style=for-the-badge)
+
+## 🤝 Let's Connect & Collaborate
+
+☁️ Ouvert aux opportunités en architecture cloud Azure et infrastructure
+🤖 Collaboration sur des projets .NET, Azure et DevOps
+💡 Partage d'idées, feedback ou suggestions bienvenus
+🌟 Si mon travail te plaît, n'oublie pas de laisser une étoile !
+
+## 📊 Statistiques GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ShadowwMaliqua&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowwMaliqua&layout=compact&theme=tokyonight)
