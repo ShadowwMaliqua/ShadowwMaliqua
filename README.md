@@ -1,5 +1,9 @@
+<div align="center">
+
 <!-- Bannière générée dynamiquement (capsule-render) -->
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1e293b&height=200&section=header&text=Manlango%20Stephane&fontSize=42&fontColor=ffffff&desc=Cloud%20Architect%20Azure%20Expert%20%7C%20AZ-305%20Certified&descAlignY=62&fontAlignY=35)](https://github.com/ShadowwMaliqua)
+<a href="https://github.com/ShadowwMaliqua">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1e293b&height=200&section=header&text=Manlango%20Stephane&fontSize=42&fontColor=ffffff&desc=Cloud%20Architect%20Azure%20Expert%20%7C%20AZ-305%20Certified&descAlignY=62&fontAlignY=35" alt="Banner" />
+</a>
 
 # 👋 Bonjour, je suis Biedan Grégoire Louis Stéphane MANLANGO
 
@@ -13,12 +17,14 @@
 <!-- Snake animation - voir instructions pour l'activer -->
 ![GitHub contribution snake](https://raw.githubusercontent.com/ShadowwMaliqua/ShadowwMaliqua/output/github-contribution-grid-snake.svg)
 
+</div>
+
 ## ☁️ Certifications Microsoft Azure
 
 [![AZ-305](https://img.shields.io/badge/AZ--305-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/)
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-administrator/)
 
-> 🏗️ Architecture cloud, sécurité, identités, stockage, réseaux et calcul sur Azure — de la conception au déploiement.
+> 🏗️ Architecture cloud, sécurité, identités, stockage, réseaux et calcul sur Azure, de la conception au déploiement.
 
 ## 💻 Stack Technique
 
@@ -41,23 +47,23 @@
 
 ## 🚀 Expérience & Projets
 
-- **☁️ Solution Web & Mobile — Stage, Mobiarchitects** *(04/2022 – 04/2023)*
+- **☁️ Solution Web & Mobile, Stage, Mobiarchitects** *(04/2022 à 04/2023)*
   Déploiement d'applications sur Azure App Service (Linux), gestion du stockage Azure Storage, développement multiplateforme avec Xamarin, ASP.NET Core MVC/API, renforcement de la sécurité Azure (MFA, prévention de la fraude).
 
-- **📚 Application de gestion de bibliothèque (Java JEE)** — Projet universitaire *(02/2020 – 05/2020)*
+- **📚 Application de gestion de bibliothèque (Java JEE), Projet universitaire** *(02/2020 à 05/2020)*
   Conception et développement d'une application de gestion de bibliothèque en Java JEE.
 
-- **🔐 Administrateur Réseau et Sécurité — Stage, Caplogistics SA (Côte d'Ivoire)** *(11/2018 – 01/2019)*
+- **🔐 Administrateur Réseau et Sécurité, Stage, Caplogistics SA (Côte d'Ivoire)** *(11/2018 à 01/2019)*
   Installation et maintenance de Windows Server 2012 R2, mise en place d'un pare-feu FortiGate, suivi et analyse des logs.
 
-- **🗄️ Administration de base de données** — Projet universitaire *(01/2018 – 03/2018)*
+- **🗄️ Administration de base de données, Projet universitaire** *(01/2018 à 03/2018)*
   Conception et création d'une base de données à partir d'un cahier des charges fonctionnel.
 
 ## 🎓 Formation
 
-- **2022** — 5e année Ingénieur en Génie Informatique, *Institut Polytechnique Privée, Casablanca*
-- **2018** — Upper Intermediate Level (Anglais), *Alliance Française, Accra, Ghana*
-- **2015** — Baccalauréat Scientifique, *Lycée Classique d'Abidjan, Côte d'Ivoire*
+- **2022** : 5e année Ingénieur en Génie Informatique, *Institut Polytechnique Privée, Casablanca*
+- **2018** : Upper Intermediate Level (Anglais), *Alliance Française, Accra, Ghana*
+- **2015** : Baccalauréat Scientifique, *Lycée Classique d'Abidjan, Côte d'Ivoire*
 
 ## 🌍 Langues
 
@@ -73,5 +79,9 @@
 
 ## 📊 Statistiques GitHub
 
+<div align="center">
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ShadowwMaliqua&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowwMaliqua&layout=compact&theme=tokyonight)
+
+</div>
